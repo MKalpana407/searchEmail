@@ -25,7 +25,7 @@ for( int i=0; i<emailId.size();i++)
    if(searcElement==emailId.get(i)) 
 	{
 		System.out.println("\n");
-		System.out.println("email Id" + "" + searcElement  +  " found");
+		System.out.println("email Id" + "x" + searcElement  +  " found");
 		break;
 	}
 }
